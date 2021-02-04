@@ -1,5 +1,5 @@
 import React, {Component} from 'react';
-import hamburger from '../hamburger.png';
+import hamburger from '../Media/hamburger.png';
 
 class Header extends Component {
     constructor(){

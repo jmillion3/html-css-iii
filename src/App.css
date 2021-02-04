@@ -91,11 +91,6 @@ main {
   width: 100%;
 }
 
-.lion:hover {
-  transform: translateY(-5px);
-  transform: rotateY(180deg);
-}
-
 
 #voltron {
   display: none;
@@ -112,6 +107,12 @@ main {
   top: 20px;
   height: 30px;
 }
+
+.lion:hover {
+  transform: translateY(-5px);
+  transform: rotateY(180deg);
+}
+
 
 @media screen and (max-width: 1100px){
   .nav-bar {
